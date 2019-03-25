@@ -1,9 +1,8 @@
 node-red-eq3
 ============
 
-node-red flow(s) for eqiva eq-3 to be used in combination with balena-node-red-eq3 repository
+node-red flow(s) for eqiva eQ-3 
 
-### About
+The master version of these flows are maintained in the [janvda/node-red-eq-3](https://github.com/janvda/node-red-eq3) github repository 
+and from time to time copied to the `node-red-eq3/` folder of the [janvda/balena-node-red-eq3](https://github.com/janvda/balena-node-red-eq3) github respository.
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
